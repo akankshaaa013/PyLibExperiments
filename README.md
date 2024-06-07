@@ -28,7 +28,7 @@ In this data visualization module, you'll see the different visualization libara
 
 <p>
  <h3> 4. Dashboard </h4>
-This is a mini dashboard project where we try to create an interactive dashboard using and the interactive plots are created using the plotly library. 
+This is a mini dashboard project where we try to create an interactive dashboard using and the interactive plots are created using the plotly library. Two Dashboard projects are created.
 </p>
 
 <h2> Happy Coding!😇</h2>
